@@ -225,6 +225,8 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT:
+![image alt](https://github.com/THANUJA111254/SIH_HACKTHON/blob/a0468f1cfc3539f94d1a2a7175a7b9c34e5b4ae9/Screenshot%202026-03-16%20140830.png)
+
 
 
 
